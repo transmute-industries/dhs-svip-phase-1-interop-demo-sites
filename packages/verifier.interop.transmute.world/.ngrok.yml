@@ -1,0 +1,6 @@
+authtoken: TOKEN
+
+tunnels:
+  chapi-demo:
+    proto: http
+    addr: 3000

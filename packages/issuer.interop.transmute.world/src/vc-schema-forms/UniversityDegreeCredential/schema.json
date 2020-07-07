@@ -1,0 +1,22 @@
+{
+    "$id": "UniversityDegreeCredential-Schema",
+    "type": "object",
+    "title": "UniversityDegreeCredential",
+    "properties": {
+        "name": {
+            "title": "Name",
+            "type": "string"
+        },
+        "description": {
+            "title": "Description",
+            "type": "string"
+        },
+        "credentialSubject.id": {
+            "title": "Credential Subject ID",
+            "type": "string"
+        }
+    },
+    "required": [
+        "credentialSubject.id"
+    ]
+}

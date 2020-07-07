@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a6d57b0.chunk.css",
+    "main.js": "/static/js/main.90ba54be.chunk.js",
+    "main.js.map": "/static/js/main.90ba54be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd7e1323.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd7e1323.js.map",
+    "static/js/2.fe41eb08.chunk.js": "/static/js/2.fe41eb08.chunk.js",
+    "static/js/2.fe41eb08.chunk.js.map": "/static/js/2.fe41eb08.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.75bfa76c5b9d8a34b72fed6758521187.js": "/precache-manifest.75bfa76c5b9d8a34b72fed6758521187.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4a6d57b0.chunk.css.map": "/static/css/main.4a6d57b0.chunk.css.map",
+    "static/js/2.fe41eb08.chunk.js.LICENSE.txt": "/static/js/2.fe41eb08.chunk.js.LICENSE.txt",
+    "static/media/customs_direct.png": "/static/media/customs_direct.f21de3bd.png",
+    "static/media/dhs.png": "/static/media/dhs.a167ff1b.png",
+    "static/media/digital_bazaar.png": "/static/media/digital_bazaar.32d398ce.png",
+    "static/media/logo.svg": "/static/media/logo.33b194d8.svg",
+    "static/media/sicpa.png": "/static/media/sicpa.86b12dd2.png",
+    "static/media/transmute.png": "/static/media/transmute.fcd44906.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd7e1323.js",
+    "static/js/2.fe41eb08.chunk.js",
+    "static/css/main.4a6d57b0.chunk.css",
+    "static/js/main.90ba54be.chunk.js"
+  ]
+}

@@ -1,0 +1,6 @@
+authtoken: TOKEN
+
+tunnels:
+  wallet-interop:
+    proto: http
+    addr: 3000

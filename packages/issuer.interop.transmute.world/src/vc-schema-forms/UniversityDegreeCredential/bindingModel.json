@@ -1,0 +1,23 @@
+{
+    "@context": [
+        "https://www.w3.org/2018/credentials/v1",
+        "https://www.w3.org/2018/credentials/examples/v1",
+        "https://digitalbazaar.github.io/citizenship-vocab/contexts/citizenship-v1.jsonld"
+    ],
+    "id": "http://example.gov/credentials/3732",
+    "type": [
+        "VerifiableCredential",
+        "UniversityDegreeCredential"
+    ],
+    "name": "Bachelor Degree",
+    "description": "Bachelor of Science and Arts",
+    "issuer": "did:key:z6MkjRagNiMu91DduvCvgEsqLZDVzrJzFrwahc4tXLt9DoHd",
+    "issuanceDate": "2020-03-16T22:37:26.544Z",
+    "credentialSubject": {
+        "id": "did:example:ebfeb1f712ebc6f1c276e12ec21",
+        "degree": {
+            "type": "BachelorDegree",
+            "name": "Bachelor of Science and Arts"
+        }
+    }
+}

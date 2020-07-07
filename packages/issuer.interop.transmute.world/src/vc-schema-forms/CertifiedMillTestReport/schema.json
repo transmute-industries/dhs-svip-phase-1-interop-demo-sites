@@ -1,0 +1,23 @@
+{
+    "$id": "CertifiedMillTestReport-Schema",
+    "type": "object",
+    "title": "CertifiedMillTestReport",
+    "properties": {
+        "name": {
+            "title": "Name",
+            "type": "string"
+        },
+        "description": {
+            "title": "Description",
+            "type": "string"
+        },
+        "credentialSubject.id": {
+            "title": "Credential Subject ID",
+            "type": "string",
+            "readonly": true
+        }
+    },
+    "required": [
+        "credentialSubject.id"
+    ]
+}
